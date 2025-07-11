@@ -26,7 +26,7 @@ const HeroSection = () => {
             {/* Subtitle */}
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mt-12 space-y-4 md:space-y-0">
               <p className="text-xl md:text-2xl text-gray-300 font-light">
-                Living on Dad's Money
+                Living on Dads Money
               </p>
               <p className="text-xl md:text-2xl text-gray-300 font-light">
                 Sometimes he earns too!

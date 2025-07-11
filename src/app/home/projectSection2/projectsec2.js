@@ -185,7 +185,8 @@ export default function LatestProjectPage() {
 
             <div className="pt-8">
               <p className="text-lg text-gray-300">
-                Let's see My work so far!
+                Letnpm run deploy
+s see My work so far!
               </p>
             </div>
           </div>
