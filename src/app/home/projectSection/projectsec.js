@@ -121,7 +121,7 @@ export default function ProjectPortfolioPage() {
                 PROJECT PORTFOLIO
               </h2>
               <p className="text-lg text-gray-300 mb-8">
-                Let's see My work so far!
+                Lets see My work so far!
               </p>
             </div>
 
