@@ -23,7 +23,7 @@ export default function ContactPage() {
           {/* Left Content */}
           <div className="space-y-8">
             <div>
-              <p className="text-lg mb-4">Contact me and let's work together!</p>
+              <p className="text-lg mb-4">Contact me and lets work together!</p>
               <h1 className="text-6xl lg:text-7xl font-bold leading-tight">
                 GET IN TOUCH
               </h1>
